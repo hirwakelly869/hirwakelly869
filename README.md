@@ -20,14 +20,19 @@
 ---
 
 ### 📊 GitHub Stats  
-![Claire’s GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+![Claire’s GitHub stats](https://github-readme-stats.vercel.app/api?hirwakelly869=hirwakelly869&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/hirwakelly)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirwa-kelly-70714b276/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/hirwakelly869)
 
+### 🗣️ Most Used Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwakelly869&layout=compact&theme=tokyonight)
+
+### 🔥 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=username=hirwakelly869&theme=tokyonight)
 
 <!--
 **hirwakelly869/hirwakelly869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
