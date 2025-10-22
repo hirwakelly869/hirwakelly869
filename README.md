@@ -4,8 +4,7 @@
 ---
 
 ### 🌱 About Me  
-- 🌟 Passionate about learning programming languages and developing them.
-- 💡 Currently learning **Python**  
+- 🌟 Passionate about learning programming languages and developing them. 
 - 🤝 Open to internships and apprenticeship opportunities in tech and media  
 - 📫 Reach me at **hirwakelly08@gmail.com**
 
@@ -36,7 +35,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwakelly869&layout=compact&theme=tokyonight)
 
 ### 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=hirwakelly869&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=hirwakelly869&theme=radical)
 
 <!--
 **hirwakelly869/hirwakelly869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
