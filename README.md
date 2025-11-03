@@ -1,5 +1,5 @@
 # Hi 👋, I'm Hirwa Kelly 
-💻 Aspiring Software Developer from Rwanda  
+💻 Aspiring Software Engineer from Rwanda  
 
 ---
 
