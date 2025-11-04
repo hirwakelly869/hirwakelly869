@@ -5,7 +5,7 @@
 
 ### 🌱 About Me  
 - 🌟 Passionate about learning programming languages and developing them. 
-- 🤝 Open to internships and apprenticeship opportunities in tech and media  
+- 🤝 Open to internships and apprenticeship opportunities in tech. 
 - 📫 Reach me at **hirwakelly08@gmail.com**
 
 ---
