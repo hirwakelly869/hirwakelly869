@@ -26,7 +26,7 @@
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hirwakelly869E&show_icons=true&theme=default)
 
 
 ---
@@ -36,11 +36,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/hirwakelly869)
 
 ### 🗣️ Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwakelly869&layout=compact)
 
 
 ### 🔥 Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=hirwakelly869&theme=tokyonight)
 
 
 
