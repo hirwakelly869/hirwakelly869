@@ -25,7 +25,8 @@
 ---
 
 ### 📊 GitHub Stats  
-![Claire’s GitHub stats](https://github-readme-stats.vercel.app/api?username=hirwakelly869&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
 
 ---
 
@@ -34,10 +35,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/hirwakelly869)
 
 ### 🗣️ Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwakelly869&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
 
 ### 🔥 Streak Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
 
 
 <!--
