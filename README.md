@@ -18,6 +18,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 
 ---
@@ -35,7 +37,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirwakelly869&layout=compact&theme=tokyonight)
 
 ### 🔥 Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=hirwakelly869&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
 
 <!--
 **hirwakelly869/hirwakelly869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
